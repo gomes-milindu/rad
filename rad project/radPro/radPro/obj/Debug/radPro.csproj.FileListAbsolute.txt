@@ -1,0 +1,11 @@
+C:\Users\gomes\OneDrive\Desktop\rad project\radPro\radPro\bin\Debug\radPro.exe.config
+C:\Users\gomes\OneDrive\Desktop\rad project\radPro\radPro\bin\Debug\radPro.exe
+C:\Users\gomes\OneDrive\Desktop\rad project\radPro\radPro\bin\Debug\radPro.pdb
+C:\Users\gomes\OneDrive\Desktop\rad project\radPro\radPro\obj\Debug\radPro.csproj.AssemblyReference.cache
+C:\Users\gomes\OneDrive\Desktop\rad project\radPro\radPro\obj\Debug\radPro.Form1.resources
+C:\Users\gomes\OneDrive\Desktop\rad project\radPro\radPro\obj\Debug\radPro.Properties.Resources.resources
+C:\Users\gomes\OneDrive\Desktop\rad project\radPro\radPro\obj\Debug\radPro.csproj.GenerateResource.cache
+C:\Users\gomes\OneDrive\Desktop\rad project\radPro\radPro\obj\Debug\radPro.csproj.CoreCompileInputs.cache
+C:\Users\gomes\OneDrive\Desktop\rad project\radPro\radPro\obj\Debug\radPro.exe
+C:\Users\gomes\OneDrive\Desktop\rad project\radPro\radPro\obj\Debug\radPro.pdb
+C:\Users\gomes\OneDrive\Desktop\rad project\radPro\radPro\obj\Debug\radPro.exe.config
